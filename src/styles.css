@@ -1,0 +1,33 @@
+body {
+  background-color: rgb(146, 142, 142);
+}
+
+#studio {
+  text-align: center;
+  height: auto;
+  width: 30vw;
+  margin: auto;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+#buttonlist {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  text-align: center;
+  margin: 2%;
+}
+
+#buttonchange{
+  background-color:rgb(75, 72, 72);
+  color: rgb(194, 181, 181);
+  margin: 10px;
+  padding: 10px;
+  border: darkred;
+}
+
